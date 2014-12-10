@@ -1,0 +1,12 @@
+<loader version="1.0" >
+<application id="bb67app">
+<name>BerryApp</name>
+<description>BerryApp</description>
+<version>1.0</version>
+<vendor>application's author</vendor>
+<fileset Java="1.45">
+<directory></directory>
+<files>bb67app.cod</files>
+</fileset>
+</application>
+</loader>

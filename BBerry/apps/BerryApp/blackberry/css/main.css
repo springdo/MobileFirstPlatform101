@@ -1,0 +1,9 @@
+
+/* this CSS file extends the application CSS file found under common\css */
+
+/* body should stretch in a Blackberry application */
+body {
+	height: auto;
+	width: auto;
+	overflow: auto;
+}

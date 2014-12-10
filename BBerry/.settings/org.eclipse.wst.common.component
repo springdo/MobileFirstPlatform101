@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+  <wb-module deploy-name="BBerry">
+    <property name="context-root" value="BBerry" />
+    <wb-resource deploy-path="/" source-path="/apps/BerryApp/common" />
+    <wb-resource deploy-path="/" source-path="/apps/BerryApp/blackberry" />
+    <wb-resource deploy-path="/" source-path="/apps/BerryApp/blackberry10" />
+  </wb-module>
+</project-modules>

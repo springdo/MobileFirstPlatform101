@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="BerryApp" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" rim:backButton="exit">
+    <name>BerryApp</name>
+    <author email="application author's e-mail">application's author</author>
+    <description>
+       BerryApp
+  	</description>
+    <license href="http://opensource.org/licenses/alphabetical">
+    </license>
+    <access subdomains="true" origin="file:///store/home" />
+    <access subdomains="true" origin="file:///SDCard" />
+    
+    <!-- start_worklight_host_server do not change this line-->
+  <access subdomains="true" origin="http://9.183.88.49" />
+  <!-- end_worklight_host_server do not change this line-->
+  
+    <access subdomains="true" origin="*" />
+    <icon src="icon.png" />
+  	<rim:splash src="splash-1024x600.png" />
+  	<rim:splash src="splash-600x1024.png" />
+ 	<rim:splash src="splash-1280x768.png" />
+ 	<rim:splash src="splash-768x1280.png" />
+    <content src="webresources/skinLoader.html" />
+    <rim:permissions>
+        <rim:permit>read_device_identifying_information</rim:permit>
+        <rim:permit>access_shared</rim:permit>
+        <rim:permit>read_geolocation</rim:permit>
+        <rim:permit>access_pimdomain_contacts</rim:permit>
+    </rim:permissions>
+    
+    
+    
+<!-- 
+	
+	
+ 	
+ 	
+ 	
+ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 -->
+	
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ </widget>
